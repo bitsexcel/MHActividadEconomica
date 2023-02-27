@@ -4,25 +4,19 @@
   <tipoIdentificacion>01</tipoIdentificacion>
   <regimen>
     <codigo>1</codigo>
-    <descripcion>RÃ©gimen General</descripcion>
+    <descripcion>Régimen General</descripcion>
   </regimen>
   <situacion>
     <moroso>NO</moroso>
     <omiso>NO</omiso>
     <estado>Inscrito</estado>
-    <administracionTributaria>San JosÃ© - Este</administracionTributaria>
+    <administracionTributaria>Alajuela</administracionTributaria>
   </situacion>
   <actividades>
     <estado>A</estado>
     <tipo>P</tipo>
     <codigo>729001</codigo>
     <descripcion>OTRAS ACTIVIDADES DE INFORMATICA</descripcion>
-  </actividades>
-  <actividades>
-    <estado>A</estado>
-    <tipo>S</tipo>
-    <codigo>524001</codigo>
-    <descripcion>VENTA DE TODO TIPO DE ARTICULOS USADOS</descripcion>
   </actividades>
   <actividades>
     <estado>A</estado>
